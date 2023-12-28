@@ -78,7 +78,8 @@ There are six objects and three collections in the default startup file.
 
 The objects and collections are:
 - Objects
-    - Cube
+    - Subject (Empty)
+        - Cube (Child of Subject)
     - Floor
 - Lights
     - Area
