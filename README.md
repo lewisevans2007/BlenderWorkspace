@@ -12,19 +12,13 @@ There are many more tabs and panels in the default startup file than the default
 
 ### Layouts
 
-There are three layout tabs: `Layout`, `Layout 2` and `Layout 3`. Each layout tab has a different layout of panels.
+There are two layout tabs: `Layout` and `Layout 2` Each layout tab has a different layout of panels.
 
 #### Layout
 
 This tab has a similar design to the default Blender layout tab.
 
 #### Layout 2
-
-This tab contains a large 3D viewport, a dope sheet panel, a properties panel, a outliner panel, a file explorer panel and a shader editor panel.
-
-This tab is useful for importing models and editing them.
-
-#### Layout 3
 
 This tab has three 3D viewports, a timeline, a properties panel, a outliner panel. One of the 3D viewports is a quad view, one is a camera view and one is a default 3D viewport.
 
@@ -39,6 +33,10 @@ This tab is very similar to the default Blender UV Editing tab.
 ### Shading
 
 This tab is also very similar to the default Blender Shading tab but has two panels to the left of the 3D viewport containing a file explorer panel and a shader editor panel for world nodes.
+
+### Shading
+
+This tab has two shading tabs one for world and one for object, a 3D viewport, a properties panel and a outliner panel.
 
 ### Animation
 
